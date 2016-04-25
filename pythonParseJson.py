@@ -33,13 +33,3 @@ def main():
         print("Received an error: " + str(webURL.getcode))
 if __name__ == "__main__":
     main()
-
-
-'''
-myJason = {"play":
-    [
-        {"name":"Fred","age":32,"hobbies":{"outdoor":"skiing","indoor":"raquetball"}},
-        {"name":"Fred","age":32,"hobbies":{"outdoor":"skiing","indoor":"raquetball"}},
-        {"name":"Fred","age":32,"hobbies":{"outdoor":"skiing","indoor":"raquetball"}}
-    ]
-}'''
